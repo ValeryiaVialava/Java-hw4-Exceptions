@@ -11,3 +11,24 @@ W przypadku wystąpienia wyjątku program ma napisać zrozumiały dla użytkowni
 
 W razie potrzeby należy samemu rzucić wyjątek napisany przez siebie lub już istniejący.
 
+---
+
+```
+Enter a number between 0,1 and 9999,99: -1
+Number should be positive.
+
+Enter a number between 0,1 and 9999,99: 16
+Square root of 16.0 is ~ 4,00
+
+Enter a number between 0,1 and 9999,99: 1000000
+Number is out of given range.
+
+Enter a number between 0.1 and 9999.99: abc
+It is not a number.
+
+Enter a number between 0.1 and 9999.99: 0,2
+Square root of 0,20 is ~ 0,45
+
+Enter a number between 0.1 and 9999.99: 0.2
+Square root of 0,20 is ~ 0,45
+```
