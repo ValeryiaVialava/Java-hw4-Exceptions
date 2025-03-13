@@ -11,4 +11,3 @@ W przypadku wystąpienia wyjątku program ma napisać zrozumiały dla użytkowni
 
 W razie potrzeby należy samemu rzucić wyjątek napisany przez siebie lub już istniejący.
 
-----
